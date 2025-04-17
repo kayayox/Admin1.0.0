@@ -11,3 +11,9 @@ la tarea de maneras variadas, lo que me permitira ejecutar varios hilos
 sobre el mismo ingreso para procesar por diferentes vias el mismo dato,
 obteniendo asi diferentes resultados que se podran evaluar para generar
 cognicion autonoma (es el resultado esperado)
+Al finalizar el proyecto (que para mi esta pautado para dentro de 6meses,
+aun si no lograra los objetivos,sera una base amplia para fuituros proyectos
+relacionados, y a mi me habra dado un camino de aprendizaje extenso sobre el
+lenguaje C y sus capacidades,cabe destacar que es mi primer proyecto completo,
+esta abierto a debate y sugerencias, estoy aprendiendo de forma autodidacta
+y cualquier ayuda sera util y apreciada.
